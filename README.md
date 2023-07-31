@@ -11,7 +11,7 @@ Installation
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/your-repository.git
+git clone (https://github.com/raoalitalha/Cinematic-Data-Exploration.git)
 Install the required libraries by running:
 Copy code
 pip install pandas matplotlib seaborn scipy
